@@ -1,6 +1,6 @@
 # 🌟 KeenKeeper
 
-> Stay connected with the people who matter most in our lives ❤️
+ Keen-keeper , a simple Friendship management application 
 
 ---
 
@@ -15,8 +15,8 @@ It helps you maintain meaningful relationships through simple, intuitive interac
 
 - ⚛️ React
 - 🎨 Tailwind CSS
-- 🌼 DaisyUI
-- 🔥 React Icons
+- 🌼 DaisyUI, 
+- 🔥 React Icons ,Next routing system 
 
 ---
 
@@ -28,25 +28,7 @@ It helps you maintain meaningful relationships through simple, intuitive interac
 - 🎨 Clean and responsive UI
 - 🌙 Dark mode support
 - 📱 Mobile-friendly design
-
+-     easily sort  in timeline.. 
 ---
 
-## 🤝 Contributing
 
-Contributions are welcome!
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-## 💡 Author
-
-Made with ❤️ by **Arshad Hossain**
-
----
-
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!

@@ -42,3 +42,19 @@ Follow these steps to set up the project on your machine:
    ```bash
    git clone [https://github.com/KANOK508/Ph-A7-Assignment-keeper.git](https://github.com/KANOK508/Ph-A7-Assignment-keeper.git)
    cd Ph-A7-Assignment-keeper
+
+
+Install dependencies:
+
+Bash
+npm install
+Run the development server:
+
+Bash
+npm run dev
+Open in Browser:
+Navigate to http://localhost:3000 to view the application.
+
+📸 Project Preview
+🤝 Contact
+If you have any questions or suggestions, feel free to reach out via GitHub.

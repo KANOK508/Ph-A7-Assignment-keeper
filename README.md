@@ -2,6 +2,8 @@
 
 KeenKeeper is a modern web application designed to keep friends and family connected in today’s busy world. It helps you maintain meaningful relationships through simple, intuitive interactions and thoughtful features.
 
+## 📸 Project Preview
+![KeenKeeper Screenshot](/KeenKeepterImgae_01.png)
 ## 🔗 Live Project
 [View Live Demo](https://keen-keeper-7.vercel.app/)
 

@@ -50,11 +50,11 @@ Follow these steps to set up the project on your machine:
 *   `npm install`
 *   `Run the development server:`
 
-Bash
-npm run dev
-Open in Browser:
-Navigate to http://localhost:3000 to view the application.
+*   Bash
+*   npm run dev
+*   Open in Browser:
+*   vigate to http://localhost:3000 to view the application.
 
-📸 Project Preview
-🤝 Contact
-If you have any questions or suggestions, feel free to reach out via GitHub.
+## 📸 Project Preview
+*   🤝 Contact
+*   If you have any questions or suggestions, feel free to reach out via GitHub.

@@ -46,9 +46,9 @@ Follow these steps to set up the project on your machine:
 
 ##Install dependencies:
 
-*Bash
-*npm install
-*Run the development server:
+*   Bash
+*   `npm install`
+*   `Run the development server:`
 
 Bash
 npm run dev

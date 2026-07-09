@@ -44,11 +44,11 @@ Follow these steps to set up the project on your machine:
    cd Ph-A7-Assignment-keeper
 
 
-Install dependencies:
+##Install dependencies:
 
-Bash
-npm install
-Run the development server:
+*Bash
+*npm install
+*Run the development server:
 
 Bash
 npm run dev
